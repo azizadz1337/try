@@ -1,0 +1,7 @@
+
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 100 100
+/f (/tmp/PWNED) (w) file def
+f (RCE) writestring
+f closefile
+showpage
